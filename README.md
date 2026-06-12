@@ -2,10 +2,6 @@
 
 <h1>Hi 👋, I'm Kamakshi Choudhary</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Software+Developer+💻;Problem+Solver+🚀;Full+Stack+Learner+🌸;Building+Ideas+Into+Reality+✨;Always+Learning+Something+New+💜"/>
-
-<br>
-
 <img width="550" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 <br>
@@ -109,15 +105,6 @@ motto:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kamakshi1712&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
