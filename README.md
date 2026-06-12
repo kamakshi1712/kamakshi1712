@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Kamakshi</h1>
+<h1>Hi I am Kamakshi</h1>
 
 <img width="550" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
