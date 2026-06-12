@@ -1,185 +1,127 @@
+<h1 align="center">✨ Kamakshi Choudhary ✨</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=B.Tech+CSE+Student;DSA+Enthusiast;Building+Projects+%F0%9F%9A%80;Future+Software+Engineer"/>
+</p>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Kamakshi%20Choudhary&fontSize=55&fontAlignY=40"/>
-
-# ✨ Hey, I'm Kamakshi
-
-### 💻 Software Developer | 🚀 DSA Enthusiast | 🌱 Lifelong Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&center=true&width=600&lines=Building+Projects+One+Commit+at+a+Time+✨;DSA+%7C+Web+Development+%7C+AI;Future+Software+Engineer+🚀;Always+Learning+Something+New+🌱"/>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=kamakshi1712&data=followers,repositories,stars,commits&theme=dark"/>
 
 </div>
 
 ---
 
-# 🌷 About Me
+## 🌸 About Me
 
-```cpp
-class Kamakshi {
-public:
+```yaml
+Name: Kamakshi Choudhary
 
-    string education = "B.Tech CSE";
-    
-    vector<string> interests = {
-        "Data Structures & Algorithms",
-        "Web Development",
-        "Artificial Intelligence",
-        "Software Engineering"
-    };
+Education:
+  - B.Tech Computer Science
 
-    string currentFocus =
-        "Solving Leetcode + Building Projects";
+Currently:
+  - Solving DSA
+  - Learning Full Stack Development
+  - Building Real Projects
 
-    string dream =
-        "To become an exceptional Software Engineer";
-};
+Goal:
+  - Software Engineer 🚀
 ```
 
 ---
 
-# 💫 Current Journey
-
-🌱 Learning Full Stack Development
-
-🔥 Practicing DSA Daily
-
-🚀 Building Real World Projects
-
-📚 Exploring AI & Modern Technologies
-
-☕ Turning Coffee into Code
-
----
-
-# 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,mysql,git,github,vscode&perline=6"/>
 
 </div>
 
 ---
 
-# 📚 Featured Projects
+## 📊 GitHub Analytics
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| 🚀 DSA Solutions | Comprehensive collection of algorithmic problems | C++, Java |
-| 💻 Web Projects | Modern, responsive web applications | React, Node.js, MySQL |
-| 🤖 AI Explorations | ML/AI experimental projects | Python, TensorFlow |
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamakshi1712&show_icons=true&theme=radical&hide_border=true"/>
 
----
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=kamakshi1712&theme=radical&hide_border=true"/>
+</p>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kamakshi1712&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamakshi1712&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakshi1712&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamakshi1712&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-🎯 Consistently solving DSA problems on LeetCode
+🏅 Consistently practicing DSA
 
-💻 Building impactful projects with modern tech stack
+🏅 Building Full Stack Projects
 
-🚀 Exploring AI & Cloud technologies
+🏅 Learning AI & Emerging Technologies
 
-🌟 Open to internships & collaborations
-
-⭐ Passionate about clean code & best practices
+🏅 Open to Collaborations
 
 ---
 
-# 📖 Learning Path
-
-- ✅ Core DSA concepts & competitive programming
-- 🔄 Full Stack Web Development (Frontend & Backend)
-- 🎯 System Design & Architecture
-- 🤖 Machine Learning & AI fundamentals
-- ☁️ Cloud Deployment & DevOps
-
----
-
-# 🎵 While Coding
+## 🌱 Current Focus
 
 ```text
-🎧 Music ON
-☕ Coffee Nearby
-💡 Ideas Loading...
-🚀 Code Compiling...
-💻 Debugging Mode ACTIVE
+LeetCode      ████████████░░░
+Development   ██████████░░░░
+Open Source   ██████░░░░░░░░
+AI Learning   ████████░░░░░░
 ```
 
 ---
 
-# 🌸 Fun Facts
+## 🐍 Contribution Snake
 
-✨ Love aesthetic UIs & clean code
-
-🌙 Night owl developer (best ideas at 2 AM)
-
-🎵 Coding with music >>> Coding in silence
-
-📚 Always curious to learn new technologies
-
-🎨 Design & functionality enthusiast
+<p align="center">
+<img src="https://raw.githubusercontent.com/kamakshi1712/kamakshi1712/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-# 💬 Let's Connect & Collaborate
+## 📈 Contribution Graph
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamakshi1712&theme=react-dark&hide_border=true"/>
 
+---
+
+## 💭 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
 <a href="https://github.com/kamakshi1712">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/kamakshi-choudhary">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
-</div>
-
----
-
-# 📌 Quick Stats
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/kamakshi1712?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/kamakshi1712?style=social)
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💖 Thanks for Visiting!
+### ✨ "Code. Learn. Build. Repeat."
 
-![](https://komarev.com/ghpvc/?username=kamakshi1712&color=blueviolet&style=for-the-badge)
-
-*"Dream Big. Start Small. Stay Consistent."* ✨
-
-**Currently Open to:** Internships | Collaborations | Open Source Contributions
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:FF69B4"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
