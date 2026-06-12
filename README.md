@@ -6,7 +6,7 @@
 
 <br>
 
-### 💫 Code • Learn • Build • Repeat
+### Code • Learn • Build • Repeat
 
 </div>
 
