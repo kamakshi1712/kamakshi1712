@@ -1,12 +1,17 @@
-</div>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Computer+Science+Student+🌸;Software+Developer+💻;DSA+Enthusiast+🚀;Full+Stack+Learner+✨;Building+Ideas+Into+Reality"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1200&color=C792EA&center=true&vCenter=true&width=1000&height=80&lines=✨+Kamakshi+Choudhary+✨;💻+Software+Developer;🚀+DSA+Enthusiast;🌸+Full+Stack+Learner;💜+Dream+Big+•+Build+More+•+Learn+Forever"/>
+
+<br>
+
+<img width="500" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif"/>
 
 <br><br>
 
-<img width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
+<p>
+A passionate <b>Computer Science Student</b> focused on building impactful projects,
+mastering <b>Data Structures & Algorithms</b>, and continuously exploring new technologies.
+</p>
 
 </div>
 
