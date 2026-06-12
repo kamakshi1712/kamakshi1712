@@ -1,28 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8A2BE2,100:FF69B4&text=Kamakshi%20Choudhary&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Kamakshi%20Choudhary&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=BB86FC&center=true&vCenter=true&width=650&lines=Computer+Science+Student;DSA+Enthusiast;Full+Stack+Developer;Building+Projects+%F0%9F%9A%80;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Computer+Science+Student+🌸;Software+Developer+💻;DSA+Enthusiast+🚀;Full+Stack+Learner+✨;Building+Ideas+Into+Reality"/>
 
-<br>
+<br><br>
 
-<img width="450" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Kamakshi
+# 🌷 About Me
 
-A passionate **Computer Science student** who enjoys solving problems, building projects, and continuously learning new technologies.
+```yaml
+name: Kamakshi Choudhary
 
-I am currently focused on strengthening my **Data Structures & Algorithms**, improving my development skills, and building projects that create real impact.
+role: B.Tech Computer Science Student
 
-- 🌱 Learning Full Stack Development
-- 💻 Practicing DSA & Problem Solving
-- 🚀 Building Real-World Projects
-- 📚 Exploring Modern Technologies
-- 🎯 Aspiring Software Engineer
+passionate_about:
+  - Software Development
+  - Data Structures & Algorithms
+  - Full Stack Development
+  - Artificial Intelligence
+
+currently_learning:
+  - React
+  - Node.js
+  - Advanced DSA
+
+goal:
+  Become a Software Engineer who builds impactful products 🚀
+
+motto:
+  Learn • Build • Improve • Repeat
+```
+
+---
+
+## 💫 Current Focus
+
+🌱 Learning Full Stack Development
+
+🔥 Solving LeetCode Problems Daily
+
+💻 Building Real World Projects
+
+🚀 Improving Problem Solving Skills
+
+📚 Exploring Modern Technologies
 
 ---
 
@@ -30,7 +57,19 @@ I am currently focused on strengthening my **Data Structures & Algorithms**, imp
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,css,react,nodejs,mysql,git,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## 🚀 Featured Areas
+
+<div align="center">
+
+| 💻 Development | 📚 DSA | 🌐 Web | 🤖 AI |
+|:--------------:|:------:|:------:|:-----:|
+| Projects | LeetCode | React | Learning |
 
 </div>
 
@@ -40,9 +79,9 @@ I am currently focused on strengthening my **Data Structures & Algorithms**, imp
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kamakshi1712&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kamakshi1712&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamakshi1712&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kamakshi1712&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -66,6 +105,16 @@ I am currently focused on strengthening my **Data Structures & Algorithms**, imp
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kamakshi1712&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -76,55 +125,41 @@ I am currently focused on strengthening my **Data Structures & Algorithms**, imp
 
 ---
 
-## 🚀 Featured Areas
+## 🎯 2026 Goals
 
-```text
-💻 Software Development
-📚 Data Structures & Algorithms
-🌐 Full Stack Development
-⚛️ React Development
-🤖 Artificial Intelligence
-🚀 Open Source Learning
-```
+- ✅ 500+ LeetCode Problems
+- ✅ Strong DSA Foundation
+- ✅ Build Full Stack Projects
+- ✅ Open Source Contributions
+- ✅ Software Engineering Internship
 
 ---
 
-## 🎯 Current Goals
+## 🌸 Fun Facts
 
-- Solve 500+ LeetCode Problems
-- Build Strong Full Stack Projects
-- Contribute to Open Source
-- Strengthen Problem Solving Skills
-- Secure a Software Engineering Internship
+☕ Coffee + Coding = Productivity
 
----
+🎧 Music makes coding better
 
-## 🌸 A Little More About Me
+🌙 Night-time is my most productive time
 
-```yaml
-name: Kamakshi Choudhary
+🚀 I enjoy turning ideas into projects
 
-education:
-  - B.Tech Computer Science
-
-interests:
-  - Software Development
-  - Full Stack Development
-  - Artificial Intelligence
-  - Problem Solving
-
-currently_learning:
-  - React
-  - Node.js
-  - Advanced DSA
-
-motto:
-  "Stay Consistent. Keep Learning. Keep Building."
-```
+💡 Learning something new every day
 
 ---
 
-## 🤝 Let's Connect
+## 💭 Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -140,14 +175,18 @@ motto:
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### ✨ "Dream Big. Stay Consistent. Build Amazing Things."
+### ✨ Dream Big • Stay Consistent • Keep Building ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:8A2BE2,100:FF69B4"/>
