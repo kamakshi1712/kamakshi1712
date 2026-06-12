@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Kamakshi%20Choudhary&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=40&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&height=100&lines=Kamakshi+Choudhary;Software+Developer+%F0%9F%92%BB;Building+Ideas+Into+Reality+%E2%9C%A8"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=Computer+Science+Student+🌸;Software+Developer+💻;DSA+Enthusiast+🚀;Full+Stack+Learner+✨;Building+Ideas+Into+Reality"/>
+<br>
 
-<br><br>
-
-<img width="500" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"/>
-
-</div>
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="450"/>
 
 ---
 
