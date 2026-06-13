@@ -6,7 +6,6 @@
 
 <br>
 
-### Code • Learn • Build • Repeat
 
 </div>
 
